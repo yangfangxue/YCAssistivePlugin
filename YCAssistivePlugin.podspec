@@ -29,5 +29,5 @@ TODO: Add long description of the pod here.
   s.dependency 'FBRetainCycleDetector'
   s.dependency 'Masonry'
   s.dependency 'ReactiveObjC'
-  s.dependency 'SDWebImage', '4.4.6'
+  s.dependency 'SDWebImage'
 end
